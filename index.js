@@ -30,7 +30,7 @@ function Counter(){
                     </h1>
                     <p className="text-gray-500 mt-2">Click buttons to modify the value</p>
                 </div>
-                
+
                 {/* Counter Display */}
                 <div className="flex justify-center items-center mb-10">
                     <div className="relative">
@@ -40,7 +40,7 @@ function Counter(){
                         </div>
                     </div>
                 </div>
-                
+
                 {/* Counter Controls */}
                 <div className="flex justify-center items-center space-x-8 mb-10">
                     <button 
@@ -54,12 +54,12 @@ function Counter(){
                     >
                         <span className="text-3xl font-bold">-</span>
                     </button>
-                    
+
                     <div className="text-center">
                         <p className="text-sm text-gray-500 font-medium mb-1">Current Value</p>
                         <p className="text-lg font-semibold text-gray-700">{count}</p>
                     </div>
-                    
+
                     <button 
                         className="flex items-center justify-center w-16 h-16 rounded-full bg-gradient-to-br from-green-500 to-emerald-500 text-white shadow-lg transition-all duration-200 transform hover:scale-105 hover:shadow-xl active:scale-95"
                         onClick={handleInc}
@@ -67,7 +67,7 @@ function Counter(){
                         <span className="text-3xl font-bold">+</span>
                     </button>
                 </div>
-                
+
                 {/* Reset Button */}
                 <div className="text-center">
                     <button 
@@ -82,7 +82,7 @@ function Counter(){
                         </span>
                     </button>
                 </div>
-                
+
                 {/* Counter Stats */}
                 <div className="mt-10 pt-6 border-t border-gray-200">
                     <div className="grid grid-cols-2 gap-4">
