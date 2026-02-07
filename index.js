@@ -31,9 +31,6 @@ function Counter(){
       }, []);
 
 
-
-
-
     return(
         <>
         <section className="min-h-screen bg-gradient-to-br from-purple-300 to-purple-600 flex flex-col items-center justify-center p-6">
