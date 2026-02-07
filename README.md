@@ -1,5 +1,4 @@
-
-###🧮 React Counter App
+🧮 React Counter App
 ---
 A modern, responsive counter application built using React (CDN + Babel), Tailwind CSS, and Lottie animation.
 This project demonstrates core React concepts with an attractive UI, making it suitable for a beginner → intermediate portfolio project.
@@ -7,7 +6,7 @@ This project demonstrates core React concepts with an attractive UI, making it s
 Live Link : https://shivangchaurasia.github.io/CounterApp/
 
 ---
-###✨ Features
+✨ Features
 ---
 - ➕ Increment counter
 - ➖ Decrement with minimum limit (0)
@@ -21,7 +20,7 @@ Live Link : https://shivangchaurasia.github.io/CounterApp/
 
 
 ---
-###🛠 Tech Stack
+🛠 Tech Stack
 ---
 - React (CDN + Babel)
 - Tailwind CSS
@@ -44,7 +43,7 @@ counter-app/
 ```
 
 ---
-###▶️ How to Run Locally
+▶️ How to Run Locally
 ---
 - 1️⃣ Clone the repository
 ```
@@ -67,7 +66,7 @@ Use Live Server in VS Code
 - ✅ No installation or build step required.
 
 ---
-###🎯 Learning Outcomes
+🎯 Learning Outcomes
 ---
 
 ### This project helps in understanding:
@@ -81,7 +80,7 @@ Use Live Server in VS Code
 
 
 ---
-###🔮 Future Improvements
+🔮 Future Improvements
 ---
 
 ### Planned enhancements:
